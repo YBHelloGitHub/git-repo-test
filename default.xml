@@ -7,10 +7,10 @@
            remote="origin"
            sync-j="4" />    <!-- 并行下载的最大任务数 -->
 
-    <project name="YBHelloGitHub/sqlite.git  " path="repo/sqlite.git  ">
-    <project name="YBHelloGitHub/git.git     " path="repo/git.git     ">
-    <project name="YBHelloGitHub/skynet.git  " path="repo/skynet.git  ">
-    <project name="YBHelloGitHub/LuaJIT.git  " path="repo/LuaJIT.git  ">
-    <project name="YBHelloGitHub/cJSON.git   " path="repo/cJSON.git   ">
+    <project name="YBHelloGitHub/sqlite.git  " path="repo/sqlite.git  " />
+    <project name="YBHelloGitHub/git.git     " path="repo/git.git     " />
+    <project name="YBHelloGitHub/skynet.git  " path="repo/skynet.git  " />
+    <project name="YBHelloGitHub/LuaJIT.git  " path="repo/LuaJIT.git  " />
+    <project name="YBHelloGitHub/cJSON.git   " path="repo/cJSON.git   " />
 
 </manifest>
