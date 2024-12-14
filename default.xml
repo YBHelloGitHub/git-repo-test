@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/" />
+  
+  <!-- 设置默认的同步选项 -->
+  <default revision="master"
+           remote="origin"
+           sync-j="4" />    <!-- 并行下载的最大任务数 -->
+
+    <project name="YBHelloGitHub/sqlite.git  " path="repo/sqlite.git  ">
+    <project name="YBHelloGitHub/git.git     " path="repo/git.git     ">
+    <project name="YBHelloGitHub/skynet.git  " path="repo/skynet.git  ">
+    <project name="YBHelloGitHub/LuaJIT.git  " path="repo/LuaJIT.git  ">
+    <project name="YBHelloGitHub/cJSON.git   " path="repo/cJSON.git   ">
+
+</manifest>
